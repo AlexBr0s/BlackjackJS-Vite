@@ -1,6 +1,6 @@
 # Blackjack-JS
 
-Como parte del curso "JavaScript Moderno: Guía para dominar el lenguaje" de Fernando Herrera, elabore un juego básico de blackjack elaborado con JS, HTML, Bootstrap y utilizando Vite como Bundler.
+Como parte del curso "JavaScript Moderno: Guía para dominar el lenguaje" de Fernando Herrera, elabore un juego básico de blackjack elaborado con JS, HTML, Bootstrap y utilizando Vite como empaquetador de modulos.
 
 ## Capturas de pantalla de la aplicación:
 
